@@ -1,0 +1,9 @@
+C:\Users\dacky\OneDrive\Рабочий стол\Сжатие изображений\ImageCompressing01\obj\Debug\ImageCompressing01.Properties.Resources.resources
+C:\Users\dacky\OneDrive\Рабочий стол\Сжатие изображений\ImageCompressing01\obj\Debug\ImageCompression.csproj.GenerateResource.cache
+C:\Users\dacky\OneDrive\Рабочий стол\Сжатие изображений\ImageCompressing01\obj\Debug\ImageCompression.csproj.CoreCompileInputs.cache
+C:\Users\dacky\OneDrive\Рабочий стол\Сжатие изображений\ImageCompressing01\obj\Debug\ImageCompressing01.exe
+C:\Users\dacky\OneDrive\Рабочий стол\Сжатие изображений\ImageCompressing01\obj\Debug\ImageCompressing01.pdb
+C:\Users\dacky\OneDrive\Рабочий стол\Сжатие изображений\ImageCompressing01\bin\Debug\ImageCompressing01.exe.config
+C:\Users\dacky\OneDrive\Рабочий стол\Сжатие изображений\ImageCompressing01\bin\Debug\ImageCompressing01.exe
+C:\Users\dacky\OneDrive\Рабочий стол\Сжатие изображений\ImageCompressing01\bin\Debug\ImageCompressing01.pdb
+C:\Users\dacky\OneDrive\Рабочий стол\Сжатие изображений\ImageCompressing01\obj\Debug\ImageCompression.ImageComp.resources
